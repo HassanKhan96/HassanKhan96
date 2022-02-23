@@ -1,4 +1,4 @@
-preview
+
 <h1 align="center">Hi 👋, I'm Hassan Khan</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
 
