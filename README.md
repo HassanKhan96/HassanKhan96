@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Nest JS**
 
-- 💬 Ask me about **React, Node JS and Express JS**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me **khanhassan057@gmail.com**
 
-- ⚡ Fun fact **I get motivations and ideas from movies.**
+- ⚡ Fun fact **I get most of my motivations and ideas from movies.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
