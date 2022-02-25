@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Hassan Khan</h1>
+<h2 align="left">Hi 👋, I'm Hassan Khan</h2>
 <h4 align="left">A passionate software developer from Pakistan</h4>
 
 - 🔭 I’m currently working on **React-Native and MERN Projects**
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khanhassan057@gmail.com**
 
-- ⚡ Fun fact **I get most of my motivations and ideas from movies.**
+- ⚡ Fun fact **I get motivations and ideas from movies.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
