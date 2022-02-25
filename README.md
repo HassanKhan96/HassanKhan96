@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Hassan Khan</h1>
-<h3 align="center">A passionate software developer from Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Hassan Khan</h1>
+<h4 align="left">A passionate software developer from Pakistan</h4>
 
 - 🔭 I’m currently working on **React-Native and MERN Projects**
 
